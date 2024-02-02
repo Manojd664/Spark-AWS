@@ -9,7 +9,7 @@
 	<description>KinesisOperations</description>
 
 	<properties>
-		<springVersion>4.2.2.RELEASE</springVersion>
+		<springVersion>5.2.22.RELEASE</springVersion>
 		<sparkVersion>2.2.0</sparkVersion>
 	</properties>
 	<build>
